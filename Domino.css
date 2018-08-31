@@ -1,0 +1,225 @@
+
+#About{
+	/* Centers the text and then we adjust is slightly */
+	/* Source: https://www.w3schools.com/css/css_positioning.asp */
+	position: absolute;
+	top:60%;
+	width: 100%;
+	text-align: center;
+	
+	z-index: 1;
+	font-size:45px;
+	color:rgb(0, 255, 255);
+	text-shadow:
+		-1.5px -1.5px 0 #000,
+		1.5px -1.5px 0 #000,
+		-1.5px 1.5px 0 #000,
+		-1.5px 1.5px 0 #000;
+			/* wpshout.com/quick-guides/create-text-outline-css/ */
+}
+		
+#HowToPlay{
+	/* Centers the text and then we adjust is slightly */
+	/* Source: https://www.w3schools.com/css/css_positioning.asp */
+	position: absolute;
+	top:70%;
+	width: 100%;
+	text-align: center;
+	
+	z-index: 1;
+	font-size:45px;
+	color:rgb(50, 20, 255);
+	text-shadow:
+		-1.5px -1.5px 0 #000,
+		1.5px -1.5px 0 #000,
+		-1.5px 1.5px 0 #000,
+		-1.5px 1.5px 0 #000;
+			/* wpshout.com/quick-guides/create-text-outline-css/ */
+}
+		
+#Credits{
+	/* Centers the text and then we adjust is slightly */
+	/* Source: https://www.w3schools.com/css/css_positioning.asp */
+	position: absolute;
+	top:80%;
+	display: block;
+	width: 100%;
+	text-align: center;
+	
+	
+	z-index: 1;
+	font-size:45px;
+	color:rgb(255, 233, 0);
+	text-shadow:
+		-1.5px -1.5px 0 #000,
+		1.5px -1.5px 0 #000,
+		-1.5px 1.5px 0 #000,
+		-1.5px 1.5px 0 #000;
+			/* wpshout.com/quick-guides/create-text-outline-css/ */
+}
+		
+#Exit{
+	position: absolute;
+	top:425px;
+	left:725px;
+	z-index: 1;
+	font-size:25px;
+	color:rgb(255, 0, 0);
+	text-shadow:
+		-1.5px -1.5px 0 #000,
+		1.5px -1.5px 0 #000,
+		-1.5px 1.5px 0 #000,
+		-1.5px 1.5px 0 #000;
+			/* wpshout.com/quick-guides/create-text-outline-css/ */
+}
+
+.progress{
+	position: float;
+	top:50%;
+	width: 50%;
+	margin: auto;
+	z-index: 1;
+	 border: 3px solid #000000;
+	
+	/* https://css-tricks.com/css3-progress-bars/ */
+	/*https://www.w3schools.com/css/css_align.asp*/
+}
+
+#PlayerID{
+	/* Centers the text and then we adjust is slightly */
+	/* Source: https://www.w3schools.com/css/css_positioning.asp */
+	position: absolute;
+	top:95.1%;
+	width: 100%;
+	text-align: center;
+	
+	z-index: 1;
+	font-size:20px;
+	color:rgb(255, 255, 255);
+	text-shadow:
+		-1.5px -1.5px 0 #000,
+		1.5px -1.5px 0 #000,
+		-1.5px 1.5px 0 #000,
+		-1.5px 1.5px 0 #000;
+	/*wpshout.com/quick-guides/create-text-outline-css/*/
+	}
+
+#Player1{
+	position: absolute;
+	top:3.5%;
+	left:20%;
+	
+	z-index: 1;
+	font-size:25px;
+	color:rgb(255, 0, 0);
+	text-shadow:
+		-1.5px -1.5px 0 #000,
+		1.5px -1.5px 0 #000,
+		-1.5px 1.5px 0 #000,
+		-1.5px 1.5px 0 #000;
+	/*wpshout.com/quick-guides/create-text-outline-css/*/
+	}
+
+#Player2{
+	position: absolute;
+	top:3.5%;
+	left:30%;	
+	
+	z-index: 1;
+	font-size:25px;
+	color:rgb(27, 121, 229);
+	text-shadow:
+		-1.5px -1.5px 0 #000,
+		1.5px -1.5px 0 #000,
+		-1.5px 1.5px 0 #000,
+		-1.5px 1.5px 0 #000;
+	/*wpshout.com/quick-guides/create-text-outline-css/*/
+	}
+
+#Player3{
+	position: absolute;
+	top:185px;
+	left:520px;
+	z-index: 1;
+	font-size:25px;
+	color:rgb(75, 200, 75);
+	text-shadow:
+		-1.5px -1.5px 0 #000,
+		1.5px -1.5px 0 #000,
+		-1.5px 1.5px 0 #000,
+		-1.5px 1.5px 0 #000;
+	/*wpshout.com/quick-guides/create-text-outline-css/*/
+	}
+
+#Player4{
+	position: absolute;
+	top:185px;
+	left:670px;
+	z-index: 1;
+	font-size:25px;
+	color:rgb(255, 0, 255);
+	text-shadow:
+		-1.5px -1.5px 0 #000,
+		1.5px -1.5px 0 #000,
+		-1.5px 1.5px 0 #000,
+		-1.5px 1.5px 0 #000;
+	/*wpshout.com/quick-guides/create-text-outline-css/*/
+	}
+
+#PlayAgain{
+	/* Centers the text and then we adjust is slightly */
+	/* Source: https://www.w3schools.com/css/css_positioning.asp */
+	position: absolute;
+	top: 0.65%;
+    width: 100%;
+	text-align: center;
+	
+	z-index: 1;
+	font-size:20px;
+	color:rgb(255, 255, 255);
+	text-shadow:
+		-1.5px -1.5px 0 #000,
+		1.5px -1.5px 0 #000,
+		-1.5px 1.5px 0 #000,
+		-1.5px 1.5px 0 #000;
+	/*wpshout.com/quick-guides/create-text-outline-css/*/
+	}
+
+#ChangeBackground{
+	/* Centers the text and then we adjust is slightly */
+	/* Source: https://www.w3schools.com/css/css_positioning.asp */
+	position: absolute;
+	top: 0.65%;
+    left:65%;
+	
+	z-index: 1;
+	font-size:18px;
+	color:rgb(192, 192, 192);
+	}
+
+#ChangeDominoTiles{
+	position: absolute;
+	top:0.65%;
+	left:18.5%;
+	
+	z-index: 1;
+	font-size:18px;
+	color:rgb(192, 192, 192);
+	}
+	
+#CenterLargeText{
+	position: absolute;
+	top: 40%;
+	width: 100%;
+	text-align: center;
+	
+	z-index: 1;
+	font-size:75px;
+	color:rgb(243, 123, 3);
+	text-shadow:
+		-1.5px -1.5px 0 #000,
+		1.5px -1.5px 0 #000,
+		-1.5px 1.5px 0 #000,
+		-1.5px 1.5px 0 #000;
+	/*wpshout.com/quick-guides/create-text-outline-css/*/
+	}
